@@ -1,40 +1,41 @@
-# [Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) - Free Landingpage Template Apps
+# LaslesVPN –  An Open Source Landingpage For VPN or Apps.
+#### Preview
 
-Tailwind VPN Landingpage is an open source, apps landing page template for [Tailwind CSS](https://tailwindcss.com/) and[ NextJS](nextjs.org/) coded by [Faldi](twitter.com/f2aldi) and design from [Didi](https://twitter.com/didiikurniawann).
+ - [Demo](https://themewagon.github.io/LaslesVPN-nextjs/)
 
-![Landing Page](./landingpage.png)
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/LaslesVPN-nextjs/)
 
 ## Getting Started
 
-Choose one of the following options to get started:
+1. Clone Repository
+```
+git clone https://github.com/themewagon/LaslesVPN-nextjs.git
+```
+2. Install Dependencies
+```
+npm i
+```
+3. Run the development server:
 
-- [Download the latest release](https://github.com/naufaldi/next-landing-vpn/archive/main.zip)
-- Clone the repo: `git clone https://github.com/naufaldi/next-landing-vpn.git`
-- Fork the repo
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## About the Template
+## Author 
+```
+Design and code is completely written by Didi and naufaldi. 
+```
 
-- Template building using NextJS Version 10
-- Tailwind v2.0
+## License
 
-## Feature Template
+ - Code is Copyright by &copy; [naufaldi](https://github.com/naufaldi/) & Design is Copyright by &copy; [Didi Kurniawan](https://twitter.com/didiikurniawann)
+ - Licensed cover under [MIT]
+ - Distributed by [ThemeWagon](https://themewagon.com)
 
-- Using [NextJS Image](https://nextjs.org/docs/api-reference/next/image) for Image Optimization
-- Slider using [React Slick](https://react-slick.neostack.com/docs/api)
-- Smooth Scrolling and Active menu using [React Scroll](https://www.npmjs.com/package/react-scroll)
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/naufaldi/next-landing-vpn/issues/new) here on GitHub.
-
-## Creator
-
-[Tailwind VPN Landingpage](https://next-landing-vpn.vercel.app/) was coded and modified by and is maintained by **[me](https://github.com/naufaldi/)**, and dekstop design by [Didi Kurniawan](https://twitter.com/didiikurniawann)
-
-## Copyright and License
-
-Code released under the MIT license.
-
-## To Do List Add Feature
-
-- [ ] Animation using Framer Motion
